@@ -23,7 +23,7 @@ $avg = $sum / 10;
     <title>Document</title>
 </head>
 <body>
-    <h1><?php echo $sum; ?></h1>
+    <h1><?php echo $sum;?></h1>
     <h2><?php echo $avg;?></h2>
     
 </body>
