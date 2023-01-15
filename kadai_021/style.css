@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.input-area {
+    border: 1px solid black;
+}
+
+input[type="submit"] {
+    border: 1px solid black;
+    background-color: gainsboro;
+}
